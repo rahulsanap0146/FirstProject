@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="20" passed="20">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5378" started-at="2021-10-02T16:16:35Z" finished-at="2021-10-02T16:16:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5378" started-at="2021-10-02T16:16:35Z" finished-at="2021-10-02T16:16:40Z">
+      <class name="com.SignupTaste">
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:com.SignupTaste@100fc185]" name="openbrowser" is-config="true" duration-ms="2591" started-at="2021-10-02T21:46:35Z" finished-at="2021-10-02T21:46:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="testSignWindow()[pri:1, instance:com.SignupTaste@100fc185]" name="testSignWindow" duration-ms="40" started-at="2021-10-02T21:46:37Z" finished-at="2021-10-02T21:46:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSignWindow -->
+        <test-method status="PASS" signature="checkMembershipText()[pri:2, instance:com.SignupTaste@100fc185]" name="checkMembershipText" duration-ms="31" started-at="2021-10-02T21:46:37Z" finished-at="2021-10-02T21:46:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkMembershipText -->
+        <test-method status="PASS" signature="verifyPlaceholdermail()[pri:3, instance:com.SignupTaste@100fc185]" name="verifyPlaceholdermail" duration-ms="36" started-at="2021-10-02T21:46:38Z" finished-at="2021-10-02T21:46:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPlaceholdermail -->
+        <test-method status="PASS" signature="verifyPlaceholderpassword()[pri:4, instance:com.SignupTaste@100fc185]" name="verifyPlaceholderpassword" duration-ms="31" started-at="2021-10-02T21:46:38Z" finished-at="2021-10-02T21:46:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPlaceholderpassword -->
+        <test-method status="PASS" signature="loginTitle()[pri:5, instance:com.SignupTaste@100fc185]" name="loginTitle" duration-ms="16" started-at="2021-10-02T21:46:38Z" finished-at="2021-10-02T21:46:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTitle -->
+        <test-method status="PASS" signature="dashboardCheck()[pri:6, instance:com.SignupTaste@100fc185]" name="dashboardCheck" duration-ms="1650" started-at="2021-10-02T21:46:38Z" finished-at="2021-10-02T21:46:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dashboardCheck -->
+        <test-method status="PASS" signature="seleniumCheck()[pri:7, instance:com.SignupTaste@100fc185]" name="seleniumCheck" duration-ms="41" started-at="2021-10-02T21:46:39Z" finished-at="2021-10-02T21:46:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seleniumCheck -->
+        <test-method status="PASS" signature="pythonTitle()[pri:8, instance:com.SignupTaste@100fc185]" name="pythonTitle" duration-ms="31" started-at="2021-10-02T21:46:39Z" finished-at="2021-10-02T21:46:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pythonTitle -->
+        <test-method status="PASS" signature="phpTitle()[pri:9, instance:com.SignupTaste@100fc185]" name="phpTitle" duration-ms="32" started-at="2021-10-02T21:46:39Z" finished-at="2021-10-02T21:46:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- phpTitle -->
+        <test-method status="PASS" signature="javatitle()[pri:10, instance:com.SignupTaste@100fc185]" name="javatitle" duration-ms="31" started-at="2021-10-02T21:46:39Z" finished-at="2021-10-02T21:46:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- javatitle -->
+        <test-method status="PASS" signature="webDevelopment()[pri:11, instance:com.SignupTaste@100fc185]" name="webDevelopment" duration-ms="31" started-at="2021-10-02T21:46:39Z" finished-at="2021-10-02T21:46:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webDevelopment -->
+        <test-method status="PASS" signature="automationtextcheck()[pri:12, instance:com.SignupTaste@100fc185]" name="automationtextcheck" duration-ms="31" started-at="2021-10-02T21:46:39Z" finished-at="2021-10-02T21:46:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- automationtextcheck -->
+        <test-method status="PASS" signature="dataScience()[pri:13, instance:com.SignupTaste@100fc185]" name="dataScience" duration-ms="32" started-at="2021-10-02T21:46:39Z" finished-at="2021-10-02T21:46:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataScience -->
+        <test-method status="PASS" signature="userTitlecheck()[pri:13, instance:com.SignupTaste@100fc185]" name="userTitlecheck" duration-ms="180" started-at="2021-10-02T21:46:39Z" finished-at="2021-10-02T21:46:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userTitlecheck -->
+        <test-method status="PASS" signature="addUserTitle()[pri:14, instance:com.SignupTaste@100fc185]" name="addUserTitle" duration-ms="152" started-at="2021-10-02T21:46:40Z" finished-at="2021-10-02T21:46:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addUserTitle -->
+        <test-method status="PASS" signature="operatorTitle()[pri:15, instance:com.SignupTaste@100fc185]" name="operatorTitle" duration-ms="188" started-at="2021-10-02T21:46:40Z" finished-at="2021-10-02T21:46:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- operatorTitle -->
+        <test-method status="PASS" signature="downloadsTitle()[pri:16, instance:com.SignupTaste@100fc185]" name="downloadsTitle" duration-ms="38" started-at="2021-10-02T21:46:40Z" finished-at="2021-10-02T21:46:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downloadsTitle -->
+        <test-method status="PASS" signature="logoutTitle()[pri:17, instance:com.SignupTaste@100fc185]" name="logoutTitle" duration-ms="47" started-at="2021-10-02T21:46:40Z" finished-at="2021-10-02T21:46:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutTitle -->
+        <test-method status="PASS" signature="jbkheader()[pri:18, instance:com.SignupTaste@100fc185]" name="jbkheader" duration-ms="31" started-at="2021-10-02T21:46:40Z" finished-at="2021-10-02T21:46:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jbkheader -->
+        <test-method status="PASS" signature="usefullinks()[pri:19, instance:com.SignupTaste@100fc185]" name="usefullinks" duration-ms="32" started-at="2021-10-02T21:46:40Z" finished-at="2021-10-02T21:46:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- usefullinks -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.SignupTaste@100fc185]" name="closeBrowser" is-config="true" duration-ms="78" started-at="2021-10-02T21:46:40Z" finished-at="2021-10-02T21:46:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.SignupTaste -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
